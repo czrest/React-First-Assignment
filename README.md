@@ -1,8 +1,15 @@
-# React + Vite
+# React FIrst Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create a React Application with the following contents:
 
-Currently, two official plugins are available:
+Hero Section
+	- Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4 Item Cards
+	- Image
+	- Title
+	- Description
+
+• Must use components
+
+BONUS: Use .map function to render cards
